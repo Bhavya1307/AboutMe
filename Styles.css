@@ -1,7 +1,13 @@
 body {
     text-align: center;
+    background: url("Images/background.jpeg") no-repeat;
+    background-size: cover;
 }
 
 h1 {
-    background-color: rgb(255, 196, 124);
-}rgb(255, 255, 122)rgb(255, 197, 122)
+    background-color: rgb(255, 209, 129);
+}
+
+.text-color {
+    color: red;
+}
